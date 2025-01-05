@@ -24,7 +24,7 @@ const BookingForm = ({ onBookingSubmit }) => {
   };
 
   return (
-    <div className="w-full max-w-md mx-auto bg-white p-6 shadow-lg rounded-lg">
+    <div className="max-w-md mx-auto bg-white w-[300px] md:w-full p-6 shadow-lg rounded-lg">
       <h2 className="text-2xl font-semibold text-gray-800 mb-4 text-center">
         Booking Form
       </h2>
